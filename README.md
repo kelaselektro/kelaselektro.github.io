@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## SELAMAT DATANG DI KELAS ELEKTRO
 
 You can use the [editor on GitHub](https://github.com/kelaselektro/kelaselektro.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
